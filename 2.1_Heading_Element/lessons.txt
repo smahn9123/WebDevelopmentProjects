@@ -1,0 +1,9 @@
+One important rule is notice how in our exercise there was only one h1.
+It's not good practice to have more than one h1, because the h1 is the very top-level heading.
+Don't have more than one h1. 
+Instead, if you need another subtitle or another level of heading, then go to the h2 or h3 or all of the other ones up until h6.
+
+Now the other thing to watch out for is don't skip a level when you're creating heading elements.
+Don't jump between the different level headings.
+These are not things that will break your code.
+Your website will still look fine even if you break all of these rules, but they're just rules for convention.
