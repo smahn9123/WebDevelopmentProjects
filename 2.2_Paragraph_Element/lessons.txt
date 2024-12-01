@@ -1,0 +1,21 @@
+Now the reason why we need a paragraph tag is because if you just had plain text in your HTML document,
+
+This is a paragraph
+This is a paragraph
+
+when you run the code and you see it on a website, what you'll see is something like this:
+
+This is a paragraph This is a paragraph
+
+The text, they run into each other onto the same line and you can't actually tell where one paragraph begins and where the other ends.
+On the other hand, if we had created two paragraph elements for these two lines,
+
+<p>This is a paragraph</p>
+<p>This is a paragraph</p>
+
+then when we run the code, you will see them being separated with a line in between to be able to distinguish the different paragraphs.
+
+This is a paragraph
+
+This is a paragraph
+
